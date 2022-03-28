@@ -1,0 +1,53 @@
+body{
+  margin-left: 80px;
+  font-family: Verdana,sans-serif;
+  background-color:#F9E4D4;
+  font-size: 20px;
+}
+.title{
+  text-align: center;
+}
+p{
+  color: #362222;
+}
+h1{
+  color: #470D21;
+  font-size: 4.5rem;
+}
+h2{
+  color: #470D21;
+  font-size: 2.5rem;
+}
+.btn {
+  background: #470D21;
+  background-image: -webkit-linear-gradient(top, #470D21, #9C0F48);
+  background-image: -moz-linear-gradient(top, #470D21, #9C0F48);
+  background-image: -ms-linear-gradient(top, #470D21, #9C0F48);
+  background-image: -o-linear-gradient(top, #470D21, #9C0F48);
+  background-image: linear-gradient(to bottom, #470D21, #9C0F48);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: Verdana,sans-serif;
+  color: #F9E4D4;
+  font-size: 20px;
+  padding: 10px 20px 11px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #9C0F48;
+  background-image: -webkit-linear-gradient(top, #9C0F48, #470D21);
+  background-image: -moz-linear-gradient(top, #9C0F48, #470D21);
+  background-image: -ms-linear-gradient(top, #9C0F48, #470D21);
+  background-image: -o-linear-gradient(top, #9C0F48, #470D21);
+  background-image: linear-gradient(to bottom, #9C0F48, #470D21);
+  text-decoration: none;
+}
+
+hr{
+    border: dotted #9C0F48 5px;
+    border-bottom: none;
+    width: 7%;
+    margin: 100px auto;
+}
